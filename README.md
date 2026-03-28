@@ -1,4 +1,4 @@
-# Transposition-Tool-60fps-
+# Transposition Tool (60fps)
 
 A tool to help you transpose audio based on video frame count.
 
